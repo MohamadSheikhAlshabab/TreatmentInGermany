@@ -171,7 +171,7 @@
   .elementor-element.elementor-element-3b58066
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url(./images/bg-line-bird.png);
+  background-image: url("./images/bg-line-bird.png");
   background-position: 75% 10px;
   background-repeat: no-repeat;
 }
@@ -328,7 +328,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-5ff2d26
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url(./images/bg-1.jpg);
+  background-image: url("./images/bg-1.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -676,7 +676,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-32bbcec
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url(./images/bg-line.png);
+  background-image: url("./images/bg-line.png");
   background-position: center center;
   background-repeat: repeat;
 }
@@ -737,7 +737,7 @@ body:not(.rtl)
   > .elementor-column-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url(./images/pexels-karolina-grabowska-4047077-scaled.jpg);
+  background-image: url("./images/pexels-karolina-grabowska-4047077-scaled.jpg");
   background-position: bottom center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -776,7 +776,7 @@ body:not(.rtl)
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: #313041;
-  background-image: url(./images/bg-map-2.png);
+  background-image: url("./images/bg-map-2.png");
   background-position: bottom right;
   background-repeat: no-repeat;
 }
@@ -981,7 +981,7 @@ body:not(.rtl)
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: #faf5ee;
-  background-image: url(./images/bg-line-2.png);
+  background-image: url("./images/bg-line-2.png");
   background-position: top left;
   background-repeat: repeat;
 }
@@ -1051,7 +1051,7 @@ body:not(.rtl)
   margin: 0px -230px 0px 0px;
   padding: 0px 0px 0px 0px;
 }
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   .elementor-1068 .elementor-element.elementor-element-aced254 {
     width: 24%;
   }

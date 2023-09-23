@@ -292,7 +292,7 @@
     line-height: 36px;
   }
 }
-@media (max-width: 768px) {
+@media (min-width: 768px) {
   .elementor-1069 .elementor-element.elementor-element-bdc7059 {
     width: 46%;
   }
