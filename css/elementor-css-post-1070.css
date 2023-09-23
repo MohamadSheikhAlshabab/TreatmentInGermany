@@ -403,7 +403,7 @@
   height: 500px;
   width: 100dvw;
 }
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   .elementor-1070 .elementor-element.elementor-element-1b19546 {
     width: 33.749%;
   }
