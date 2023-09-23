@@ -105,7 +105,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
             var rcewpp = {
                 "ajax_url":"http://localhost/treament_study_dutchland/wp-admin/admin-ajax.php",
                 "nonce": "2040aa94f8",
-                "home_url": "http://localhost/treament_study_dutchland/",
+                "home_url": "./index.html",
                 "settings_icon": 'http://localhost/treament_study_dutchland/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings.png',
                 "settings_hover_icon": 'http://localhost/treament_study_dutchland/wp-content/plugins/export-wp-page-to-static-html/admin/images/settings_hover.png'
             };
@@ -138,7 +138,7 @@ var form_ajax_object = {"ajaxurl":"http:\/\/localhost\/treament_study_dutchland\
 <meta name="generator" content="WordPress 6.3.1" />
 <meta name="generator" content="WooCommerce 8.1.1" />
 <meta name="generator" content="Redux 4.4.7" /><script> var ajaxurl = "http://localhost/treament_study_dutchland/wp-admin/admin-ajax.php";</script><link rel="alternate" hreflang="en-US" href="http://localhost/treament_study_dutchland/wp-content/themes/tevily/assets/img/carousel-2.jpg"/>
-<link rel="alternate" hreflang="ar" href="http://localhost/treament_study_dutchland/ar/wp-content/themes/tevily/assets/img/carousel-2.jpg/"/>
+<link rel="alternate" hreflang="ar" href="./index_ar.html/wp-content/themes/tevily/assets/img/carousel-2.jpg/"/>
 <link rel="alternate" hreflang="en" href="http://localhost/treament_study_dutchland/wp-content/themes/tevily/assets/img/carousel-2.jpg"/>
 <meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="http://localhost/treament_study_dutchland"><link rel="alternate" href="http://localhost/treament_study_dutchland/wp-json/tribe/events/v1/" /><script> var ajaxurl = "http://localhost/treament_study_dutchland/wp-admin/admin-ajax.php";</script>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<meta name="generator" content="Elementor 3.16.4; features: e_optimized_assets_loading, e_optimized_css_loading, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
@@ -245,7 +245,7 @@ var form_ajax_object = {"ajaxurl":"http:\/\/localhost\/treament_study_dutchland\
 		 
 		  	<div class="header-left">
 				<div class="logo-mobile">
-									  	<a href="http://localhost/treament_study_dutchland/">
+									  	<a href="./index.html">
 					 	<img src="./images/logo.png" alt="Treatment in Germany" />
 				  	</a>
 				</div>
@@ -260,15 +260,15 @@ var form_ajax_object = {"ajaxurl":"http:\/\/localhost\/treament_study_dutchland\
 	</div>
 	<div class="gva-offcanvas-content mobile">
 		<div class="top-canvas">
-					  	<a class="logo-mm" href="http://localhost/treament_study_dutchland/">
+					  	<a class="logo-mm" href="./index.html">
 			 	<img src="./images/logo.png" alt="Treatment in Germany" />
 		  	</a>
 			<a class="control-close-mm" href="#"><i class="far fa-times-circle"></i></a>
 		</div>
 		<div class="wp-sidebar sidebar">
-			<div id="gva-mobile-menu" class="navbar-collapse"><ul id="menu-main-menu" class="gva-nav-menu gva-mobile-menu"><li id="menu-item-1091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1091"><a href="http://localhost/treament_study_dutchland/" data-link_id="link-3692"><span class="menu-title">Home</span></a></li>
-<li id="menu-item-1197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1197"><a href="http://localhost/treament_study_dutchland/about/" data-link_id="link-3870"><span class="menu-title">About</span></a></li>
-<li id="menu-item-1198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1198"><a href="http://localhost/treament_study_dutchland/contact/" data-link_id="link-1440"><span class="menu-title">Contact</span></a></li>
+			<div id="gva-mobile-menu" class="navbar-collapse"><ul id="menu-main-menu" class="gva-nav-menu gva-mobile-menu"><li id="menu-item-1091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1091"><a href="./index.html" data-link_id="link-3692"><span class="menu-title">Home</span></a></li>
+<li id="menu-item-1197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1197"><a href="./about.html" data-link_id="link-3870"><span class="menu-title">About</span></a></li>
+<li id="menu-item-1198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1198"><a href="./contact.html" data-link_id="link-1440"><span class="menu-title">Contact</span></a></li>
 </ul></div>			   
 	  </div>
 	</div>
@@ -346,7 +346,7 @@ var form_ajax_object = {"ajaxurl":"http:\/\/localhost\/treament_study_dutchland\
 				<div class="elementor-element elementor-element-209b6ec elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="209b6ec" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="https://gaviaspreview.com/wp/tevily/tours-page/">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text"></span>
 		</span>
@@ -386,9 +386,9 @@ var form_ajax_object = {"ajaxurl":"http:\/\/localhost\/treament_study_dutchland\
 						<div class="elementor-element elementor-element-cfe1b09 elementor-widget elementor-widget-gva-navigation-menu" data-id="cfe1b09" data-element_type="widget" data-widget_type="gva-navigation-menu.default">
 				<div class="elementor-widget-container">
 			<div class="gva-element-gva-navigation-menu gva-element">   <div class="gva-navigation-menu  menu-align-left">
-      <div class="menu-main-menu-container"><ul id="menu-2742681554" class="gva-nav-menu gva-main-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1091"><a href="http://localhost/treament_study_dutchland/" data-link_id="link-4794"><span class="menu-title">Home</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1197"><a href="http://localhost/treament_study_dutchland/about/" data-link_id="link-8107"><span class="menu-title">About</span></a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1198"><a href="http://localhost/treament_study_dutchland/contact/" data-link_id="link-9391"><span class="menu-title">Contact</span></a></li>
+      <div class="menu-main-menu-container"><ul id="menu-2742681554" class="gva-nav-menu gva-main-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1091"><a href="./index.html" data-link_id="link-4794"><span class="menu-title">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1197"><a href="./about.html" data-link_id="link-8107"><span class="menu-title">About</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1198"><a href="./contact.html" data-link_id="link-9391"><span class="menu-title">Contact</span></a></li>
 </ul></div>   </div></div>		</div>
 				</div>
 						</div>
@@ -421,7 +421,7 @@ var form_ajax_object = {"ajaxurl":"http:\/\/localhost\/treament_study_dutchland\
 				The page requested could not be found. This could be a spelling error in the URL or a removed page.			</div> 
 
 			<div class="not-found-home text-center">
-				<a class="btn-theme" href="http://localhost/treament_study_dutchland/">
+				<a class="btn-theme" href="./index.html">
 					<i class="far fa-arrow-alt-circle-left"></i>
 					Back Homepage				</a>
 			</div>
@@ -575,13 +575,13 @@ var form_ajax_object = {"ajaxurl":"http:\/\/localhost\/treament_study_dutchland\
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="https://gaviaspreview.com/wp/tevily/about/">
+											<a href="./about.htm">
 
 											<span class="elementor-icon-list-text">About Us</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="https://gaviaspreview.com/wp/tevily/contact-2/">
+											<a href="./contact.html">
 
 											<span class="elementor-icon-list-text">Contact</span>
 											</a>
@@ -843,7 +843,7 @@ var form_ajax_object = {"ajaxurl":"http:\/\/localhost\/treament_study_dutchland\
             </div>
             <div id="trp-floater-ls-language-list" class="trp-with-flags" >
 
-                <div class="trp-language-wrap"  style="padding: 11px;">                    <a href="http://localhost/treament_study_dutchland/ar/wp-content/themes/tevily/assets/img/carousel-2.jpg/"
+                <div class="trp-language-wrap"  style="padding: 11px;">                    <a href="./index_ar.html/wp-content/themes/tevily/assets/img/carousel-2.jpg/"
                          title="Arabic">
           						  <img class="trp-flag-image" src="http://localhost/treament_study_dutchland/wp-content/plugins/translatepress-multilingual/assets/images/flags/ar.png" width="18" height="12" alt="ar" title="Arabic">Arabic					          </a>
                 <a href="#" class="trp-floater-ls-disabled-language trp-ls-disabled-language" onclick="event.preventDefault()"><img class="trp-flag-image" src="http://localhost/treament_study_dutchland/wp-content/plugins/translatepress-multilingual/assets/images/flags/en_US.png" width="18" height="12" alt="en_US" title="English">English</a></div>            </div>

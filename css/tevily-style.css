@@ -14,15 +14,15 @@ Text Domain: tevily
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
-.wp-caption-text{
-   font-weight: 400;
-   font-size: 14px;
-   font-style: italic;
-   color: #3f3836;
+.wp-caption-text {
+  font-weight: 400;
+  font-size: 14px;
+  font-style: italic;
+  color: #3f3836;
 }
-.gallery-caption{
-   font-weight: 500;
+.gallery-caption {
+  font-weight: 500;
 }
-.bypostauthor{
-   text-align: left;
+.bypostauthor {
+  text-align: left;
 }
